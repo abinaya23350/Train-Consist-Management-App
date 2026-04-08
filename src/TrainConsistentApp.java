@@ -20,7 +20,7 @@ class Bogie {
     }
 }
 
-public class TrainConsistManagement {
+public class TrainConsistentApp {
 
     public static void main(String[] args) {
 
